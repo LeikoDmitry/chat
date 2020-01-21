@@ -1,4 +1,4 @@
-**Simple Chat Test Project**
+**Simple Chat Module**
 
 Run Application:
 
@@ -6,7 +6,7 @@ Run Application:
 $ php -S 0.0.0.0:8080 -t public
 ```
 
-Run WebSocket Server For Chat
+Run WebSocket Server For the Chat
 
 ```bash
 php public/index.php runserver
